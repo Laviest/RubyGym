@@ -32,7 +32,7 @@ img {
 }
 
 .m-div {
-  width:1370px;
+  width:1380px;
 }
 
 .w-2imgs {
@@ -84,6 +84,10 @@ img {
     width: 1300px;
   }
 
+  .w-nav {
+    width: 1250px;
+  }
+
   .text-25rem {
     font-size: 2.5rem;
     line-height: 1.1;
@@ -98,8 +102,6 @@ img {
     height: 800px;
   }
 }
-
-
 
 .classes-w {
   width: 63%;
@@ -502,4 +504,29 @@ a {
   .pricing-table > div {
     align-self: top;
   }
+}
+
+.w-navbar {
+  max-width: 1280px;
+  width: 1080px;
+  height: 500px;
+}
+
+
+.mobile-container {
+  max-width: 1280px;
+  width: 1280px;
+  margin: auto;
+  height: 200px;
+  color: white;
+  border-radius: 10px;
+}
+
+.topnav {
+  overflow: hidden;
+  position: relative;
+}
+
+.footer {
+  padding-top: 1670px;
 }

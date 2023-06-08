@@ -215,6 +215,9 @@ function App() {
           </div>
         </div>
       </div>
+      <div className="m-div">
+        <h1 className="text-center text-white text-5xl footer pb-32">All rights reserved © 2023 Petar Joshevski</h1>
+      </div>
     </div>
   );
 }
